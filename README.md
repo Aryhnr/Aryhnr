@@ -13,6 +13,7 @@
   <a href="https://laravel.com/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/laravel.png"/> </a>
   <a href="https://www.javascript.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>
   <a href="https://getbootstrap.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a>
+  <a href="https://tailwindcss.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/tailwindcss.png"/> </a>
   <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
 </p>
 
@@ -34,15 +35,11 @@
 ---
 
 ### 🌟 Featured Projects:
-- [📦 Radio Website](https://github.com/YourGitHubUsername/RadioWebsite)
-- [📦 Portfolio Website](https://github.com/YourGitHubUsername/PortfolioWebsite)
-- [📦 Machine Learning Project](https://github.com/YourGitHubUsername/MLProject)
-
----
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anandaprayoga&repo=radioSBFM)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Aryhnr&repo=Klasifikasi-Tumor-Otak-MRI)](https://github.com/Aryhnr/Klasifikasi-Tumor-Otak-MRI)
 ### 🌐 Connect with me:
 <p align="center">
   <a href="https://linkedin.com/in/YourLinkedInProfile" target="_blank"> <img src="https://img.icons8.com/color/48/000000/linkedin.png"/> </a>
   <a href="https://twitter.com/YourTwitterProfile" target="_blank"> <img src="https://img.icons8.com/color/48/000000/twitter.png"/> </a>
-  <a href="mailto:your.email@example.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/gmail-new.png"/> </a>
+  <a href="mailto:ytminecraft93@gmail.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/gmail-new.png"/> </a>
 </p>
