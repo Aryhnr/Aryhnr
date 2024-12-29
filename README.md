@@ -15,7 +15,11 @@
   <a href="https://getbootstrap.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a>
   <a href="https://tailwindcss.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/tailwindcss.png"/> </a>
   <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
+  <a href="https://www.php.net/" target="_blank"> <img src="https://img.icons8.com/officel/48/000000/php-logo.png"/> </a>
+  <a href="https://html.spec.whatwg.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> </a>
+  <a href="https://www.w3.org/Style/CSS/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>
 </p>
+
 
 ---
 
