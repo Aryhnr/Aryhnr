@@ -8,17 +8,19 @@
 ---
 
 ### 🛠️ Skills and Tools:
-<p align="center">
-  <a href="https://www.python.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>
-  <a href="https://laravel.com/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/laravel.png"/> </a>
-  <a href="https://www.javascript.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>
-  <a href="https://getbootstrap.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a>
-  <a href="https://tailwindcss.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/tailwindcss.png"/> </a>
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
-  <a href="https://www.php.net/" target="_blank"> <img src="https://img.icons8.com/officel/48/000000/php-logo.png"/> </a>
-  <a href="https://html.spec.whatwg.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> </a>
-  <a href="https://www.w3.org/Style/CSS/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>
+<p>
+  <img src="https://img.icons8.com/color/67.5/python.png" width="67.5px" />
+  <img src="https://img.icons8.com/officel/67.5/php-logo.png" width="67.5px" />
+  <img src="https://img.icons8.com/color/67.5/javascript.png" width="67.5px" />
+  <img src="https://img.icons8.com/color/67.5/html-5.png" width="67.5px" />
+  <img src="https://img.icons8.com/color/67.5/css3.png" width="67.5px" />
+  <img src="https://s3.amazonaws.com/creativetim_bucket/tim_static_images/presentation-page/bootstrap.jpg" width="67.5px" />
+  <img src="https://img.icons8.com/color/67.5/tailwindcss.png" width="67.5px" />
+  <img src="https://img.icons8.com/color/67.5/git.png" width="67.5px" />
+  <img src="https://s3.amazonaws.com/creativetim_bucket/tim_static_images/presentation-page/figma.jpg" width="67.5px" />
+  <img src="https://s3.amazonaws.com/creativetim_bucket/tim_static_images/presentation-page/icon-laravel.jpg" width="67.5px" />
 </p>
+
 
 
 ---
@@ -37,6 +39,6 @@
 ### 🌐 Connect with me:
 <p align="center">
   <a href="https://linkedin.com/in/YourLinkedInProfile" target="_blank"> <img src="https://img.icons8.com/color/48/000000/linkedin.png"/> </a>
-  <a href="https://twitter.com/YourTwitterProfile" target="_blank"> <img src="https://img.icons8.com/color/48/000000/twitter.png"/> </a>
   <a href="mailto:ytminecraft93@gmail.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/gmail-new.png"/> </a>
+  <a href="https://www.instagram.com/_aryhnr/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/instagram-new.png"/> </a>
 </p>
