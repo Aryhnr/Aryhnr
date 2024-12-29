@@ -27,13 +27,6 @@
 
 ---
 
-### 🏆 Achievements:
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Aryhnr&theme=onedark" />
-</p>
-
----
-
 ### 🌟 Featured Projects:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anandaprayoga&repo=radioSBFM)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Aryhnr&repo=Klasifikasi-Tumor-Otak-MRI)](https://github.com/Aryhnr/Klasifikasi-Tumor-Otak-MRI)
