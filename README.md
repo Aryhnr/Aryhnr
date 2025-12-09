@@ -25,20 +25,6 @@ Hi there, I'm <a href="#" target="_blank">AKH. RAIHAN GIMNASTIAR RAKHMAN</a> �
 
 ---
 
-### 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aryhnr&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aryhnr&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
----
-
-### 🌟 Featured Projects:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Aryhnr&repo=radioSBFM)](https://github.com/Aryhnr/radioSBFM)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Aryhnr&repo=Klasifikasi-Tumor-Otak-MRI)](https://github.com/Aryhnr/Klasifikasi-Tumor-Otak-MRI)
-
----
-
 ### 🌐 Connect with me:
 <p align="center">
   <a href="https://linkedin.com/in/aryhnr" target="_blank">
